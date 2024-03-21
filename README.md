@@ -1,6 +1,6 @@
 # verizon-fwa
 
-Finding the Best Markets for Fixed Wireless Access.
+Question: Finding the Best Markets for Fixed Wireless Access across the US.
 
 •	Developed a machine learning model, through Break Through Tech AI Studio, utilizing ARIMA modeling to forecast multi-regional population trends across the US, analyzing historical demographic data and time series patterns. 
 
